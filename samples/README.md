@@ -2,7 +2,7 @@
 
 ## 介绍
 
->  该数据库用于支持热布局温度场预测任务，数据地址：/192.168.2.1/mnt/share1/layout_data/v1.0/data/
+>  该数据库用于支持热布局温度场预测任务，数据地址：https://pan.baidu.com/s/1_1sDVtOhgC7jEJ2j7ltIfA (password：phwp)
 >
 >  samples中提供数据库的样例
 
